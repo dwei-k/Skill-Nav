@@ -1,2 +1,1 @@
-# Skill-Nav
-repo of Skill-Nav web page
+# risk-averse-locomotion.github.io
